@@ -1,3 +1,6 @@
+#https://github.com/anayamackle/lab11-RB-AM
+#Partner 1: Anaya Mackle
+#Partner 2: Ryan Buehler
 import math
 def add(a, b): 
     return a + b
